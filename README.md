@@ -1,0 +1,2 @@
+# myproxylist
+all
